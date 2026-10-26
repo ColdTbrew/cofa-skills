@@ -18,7 +18,7 @@ They contain no task-specific code or answers. They describe *how to work*: what
 ## Install
 
 ```bash
-git clone --depth 1 https://github.com/<OWNER>/cofa-skills /tmp/cofa-skills && bash /tmp/cofa-skills/install.sh
+git clone --depth 1 https://github.com/ColdTbrew/cofa-skills /tmp/cofa-skills && bash /tmp/cofa-skills/install.sh
 ```
 
 - Default target is `~/.agents/skills` (Codex user scope), so the skills stay out of the task workspace.
