@@ -35,3 +35,8 @@ Several skills restate ideas from [pstack](https://github.com/cursor/plugins/tre
 ## License
 
 MIT. See `LICENSE`.
+
+
+## Prompts
+
+- [`prompts/01-recon.md`](prompts/01-recon.md): 모델 만들기 전 정찰용 Codex 프롬프트 (데이터 점검 → 담당자 질문 → 임시 계획).
